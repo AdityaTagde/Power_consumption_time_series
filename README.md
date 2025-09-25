@@ -58,7 +58,7 @@ pip install -r requirements.txt
 * Model accuracy metrics
 
 ```
-
+```
 ## 🔮 Future Work
 
 * Deploy forecasting model as a web app (Streamlit/Dash)
